@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: ehdnd-flask-app
+  DOCKER_IMAGE: ssu-flask-app
   DOCKER_TAG: latest
   DOCKER_USERNAME: ehdnd
   SSH_USER: ssuuser
